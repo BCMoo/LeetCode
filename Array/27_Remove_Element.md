@@ -9,11 +9,13 @@
   * Key: 一個變數(i)紀錄填值位置，一個變數(j)紀錄比對位置
   * Code 
 
-    <img src="https://user-images.githubusercontent.com/29893605/150508219-1981da69-7b0b-44a2-8410-382b71366abc.png" width="330" />
+    <img src="https://user-images.githubusercontent.com/29893605/150523795-61e9cb7b-71bf-4854-b0dd-d2d5d18bcf74.png" width="500" />
+
 
 * Solution 2
   * Code
 
-    <img src="https://user-images.githubusercontent.com/29893605/150523300-c2aca8b5-ff94-4cc0-bd69-235897767942.png" width="500" />
+    <img src="https://user-images.githubusercontent.com/29893605/150524020-1d18dcf0-2ed6-4a95-8363-6102b8f9328a.png" width="500" />
 
  
+
