@@ -8,7 +8,7 @@
 * Solution 1 
   
   * Idea    
-    <img src="https://user-images.githubusercontent.com/29893605/150642350-f8f7f43c-3397-48f5-b200-5354caf72854.png" width="600" />
+    <img src="https://user-images.githubusercontent.com/29893605/150643236-23b25522-52a2-4703-adf3-bf14ad22c716.png" width="600" />
 
   * Code 
 
@@ -18,7 +18,7 @@
 * Solution 2
 
   * Idea  
-    <img src="https://user-images.githubusercontent.com/29893605/150642271-3b78d4ee-2881-4f35-a10c-105074be7ce2.png" width="600" />
+    <img src="https://user-images.githubusercontent.com/29893605/150643312-5805a975-1966-4f55-83e5-11ca8a6ef21d.png" width="600" />
 
   * Code
 
