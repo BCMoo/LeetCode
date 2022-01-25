@@ -4,7 +4,11 @@
 * Difficulty: easy
 
   <img src="https://user-images.githubusercontent.com/29893605/150507660-972856b2-3400-4931-b902-9b519f1ed59c.png" width="800" />
-  
+* Constraints
+
+  <img src="https://user-images.githubusercontent.com/29893605/150973732-db1e604d-fee5-4b8f-83a0-285f015a9406.png" width="400" />
+
+
 * Solution 1 
   
   * Idea    
