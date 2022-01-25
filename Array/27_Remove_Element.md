@@ -4,7 +4,10 @@
 * Difficulty: easy
 
   <img src="https://user-images.githubusercontent.com/29893605/150642479-977dfb9c-749d-49f2-987d-de79f0670323.png" width="800" />
+* Constraints
 
+  <img src="https://user-images.githubusercontent.com/29893605/150973849-f703cecb-a449-47de-a842-8e3b0d407b78.png" width="300" />
+  
 * Solution 1
   * Idea  
     <img src="https://user-images.githubusercontent.com/29893605/150643785-92787434-b75f-49f3-a024-f58f004fcc84.png" width="600" />
