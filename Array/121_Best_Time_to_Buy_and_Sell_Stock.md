@@ -11,13 +11,13 @@
   
 * Solution 1
   * Idea  
-    * 一個變數紀錄最大獲利，一個變數紀錄買價 
-    * 買價 = 現有買價與新價格相比較小者
-    * 最大獲利 = 現有最大獲利與(新價格-買價)相比較大者
+    * 一個變數紀錄左邊隔板的index，一個變數紀錄右邊隔板的index 
+    * 比較左右隔板的高度，較低者向內移動
+    * 計算各種左右隔板組合下的max area of water直到左右相碰
     
   * Code 
 
-    <img src="https://user-images.githubusercontent.com/29893605/150978546-33708847-4e63-4e11-ac72-89f6ee9948be.png" width="500" />
+    <img src="https://user-images.githubusercontent.com/29893605/152327839-a0dc3626-e5d4-4b55-869f-82d40d15cf38.png" width="780" />
 
 
 
