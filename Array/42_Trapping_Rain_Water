@@ -1,0 +1,23 @@
+## 42. Trapping Rain Water
+
+* Link: https://leetcode.com/problems/trapping-rain-water/
+* Difficulty: hard
+
+
+  <img src="https://user-images.githubusercontent.com/29893605/152327233-e41fe699-ce3a-47c6-9b79-63f5c0884b6d.png" width="650" />
+* Constraints
+
+  <img src="https://user-images.githubusercontent.com/29893605/152327337-b321e149-cd2f-41b8-bad0-c57a85953fa3.png" width="210" />
+  
+  
+* Solution 
+  * Idea  
+    * 一個變數紀錄左邊隔板的index，一個變數紀錄右邊隔板的index 
+    * 比較左右隔板的高度，較低者向內移動
+    * 計算各種左右隔板組合下的max area of water直到左右相碰
+    
+  * Code 
+
+    <img src="https://user-images.githubusercontent.com/29893605/152327839-a0dc3626-e5d4-4b55-869f-82d40d15cf38.png" width="780" />
+    
+    
