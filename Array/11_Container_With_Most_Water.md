@@ -13,8 +13,16 @@
 * Solution 
   * Idea  
     * 一個變數紀錄左邊隔板的index，一個變數紀錄右邊隔板的index 
-    * 比較左右隔板的高度，較低者向內移動
+    * 比較左右隔板的高度，較低者向內移動，兩格板等高則兩者均向內移動
     * 計算各種左右隔板組合下的max area of water直到左右相碰
+    <br>
+    <br>
+    <img src="https://user-images.githubusercontent.com/29893605/154813680-6156e1eb-2386-4f7f-8ac8-37c7aaf0890e.png" width="780" />
+    <img src="https://user-images.githubusercontent.com/29893605/154813694-7c2cc256-aff2-420f-b17a-b1cafab07059.png" width="780" />
+    <img src="https://user-images.githubusercontent.com/29893605/154813717-7503e43c-0d26-4ba9-b917-4e49382f450b.png" width="780" />
+    <img src="https://user-images.githubusercontent.com/29893605/154813762-6c687fc6-32b7-4a59-9e2f-d72a3f796ef2.png" width="780" />
+    
+
     
   * Code 
 
