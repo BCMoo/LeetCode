@@ -23,7 +23,6 @@
 
   * Code    
     <img src="https://user-images.githubusercontent.com/29893605/165090150-8180c83d-6c17-488d-a18b-9071725f6509.png" width="650" />
-    * 別忘了要確認該文字是不是字串的最後一個
 
 
 
