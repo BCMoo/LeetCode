@@ -19,7 +19,8 @@
   * Idea  
     * 將羅馬文字代表的數字由大到小排列，由大到小不斷地取floor division和餘數直到餘數為零
     * 1994 = MCMXCIV.  
-      <img src="https://user-images.githubusercontent.com/29893605/166114868-0c5abcd5-c90f-43ec-9e1d-7ecfcd460330.png" width="700" />
+      <img src="https://user-images.githubusercontent.com/29893605/166128050-00bd432b-e96a-4ca1-a182-0cf79397399c.png" width="700" />
+
 
   * Code    
     <img src="https://user-images.githubusercontent.com/29893605/166113830-eb8abca3-8426-478e-8191-aadb796b85c5.png" width="650" />
