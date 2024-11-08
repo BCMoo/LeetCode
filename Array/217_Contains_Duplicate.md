@@ -11,5 +11,5 @@
   
 * Solution and Code
 
-  ![image](https://github.com/user-attachments/assets/5ab68741-b502-44f5-9cdf-2cdc8318832e)
+  ![image](https://github.com/user-attachments/assets/e3a588b3-13aa-4ab5-a660-8a2b7bef92cf)
 
